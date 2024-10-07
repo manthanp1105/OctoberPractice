@@ -8,6 +8,7 @@ public class LoginPage {
 		int b = 20;
 
 		System.out.println("Total of a & b is : " + (a + b));
+		System.out.println("October");
 
 	}
 
